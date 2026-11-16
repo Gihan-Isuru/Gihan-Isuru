@@ -84,17 +84,8 @@ const gihan = {
 | **Pixelbey** | Software development and digital solutions for businesses. | [Website](https://pixelbey.com/) |
 | **Shinebey** | Digital wedding invitations and online RSVP experiences. | [Website](https://shinebey.com/) |
 | **Attendly** | Event registration, QR check-in and attendee management platform. | *Project showcase coming soon* |
-| **SecureSign** | Digital signature solution concept for managing electronic signing workflows. | *Project showcase coming soon* |
 
 > Some products are commercial or under development; source code may not be publicly available.
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Gihan-Isuru&theme=tokyonight&no-frame=true&row=1&column=6)
-
-</div>
 
 ## 🌐 Connect With Me
 
